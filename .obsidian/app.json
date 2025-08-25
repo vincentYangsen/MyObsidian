@@ -1,0 +1,8 @@
+{
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "New",
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "./static"
+}

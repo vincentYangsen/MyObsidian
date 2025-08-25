@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"24a84c529cd009d1","x":-83,"y":-33,"width":250,"height":60,"type":"text","text":"心智圖"},
+		{"id":"d10b63592d5a9e6a","x":220,"y":-110,"width":239,"height":50,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"925179fb7738b71e","fromNode":"24a84c529cd009d1","fromSide":"right","toNode":"d10b63592d5a9e6a","toSide":"left"}
+	]
+}
