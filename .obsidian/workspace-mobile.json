@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian 打造你的第二大腦 基礎篇.md",
-                "mode": "preview",
+                "file": "今天待辦事項.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "obsidian 打造你的第二大腦 基礎篇"
+              "title": "今天待辦事項"
             }
           }
         ]
@@ -98,7 +98,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "obsidian 打造你的第二大腦 基礎篇.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -161,16 +160,21 @@
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
-      "bases:建立新的 base": false
+      "bases:建立新的 base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2379253e97acb0a2",
+  "active": "8cb55ab327a4c3fc",
   "lastOpenFiles": [
-    "Dairy/2025-08-25.md",
+    "New/未命名.md",
+    "New/Meta human.md",
+    "今天待辦事項.md",
+    "BOOK/最小阻力之路.md",
     "New/如何捕捉腦中的靈感.md",
+    "Dairy/2025-08-25.md",
+    "obsidian 打造你的第二大腦 基礎篇.md",
     "map/八字基礎.md",
     "README.md",
-    "obsidian 打造你的第二大腦 基礎篇.md",
     "雙向連結.md",
     "八字/四馬地.md",
     "八字/四正地.md",
@@ -179,7 +183,6 @@
     "八字/三會.md",
     "八字/三合.md",
     "八字",
-    "今天待辦事項.md",
     "Static/螢幕擷取畫面 2025-08-11 181909.png",
     "Static/螢幕擷取畫面 2025-08-11 175916.png",
     "Static",
@@ -187,7 +190,6 @@
     "New/static/Pasted image 20250825102908.jpg",
     "New/講話 流暢.md",
     "New/看鏡頭.md",
-    "New/未命名.md",
     "New/static",
     "New",
     "n8n.md",
@@ -199,8 +201,6 @@
     "BOOK/能量練習.md",
     "BOOK/習慣綑綁.md",
     "BOOK/生命有光.md",
-    "BOOK/原子習慣.md",
-    "BOOK/卡片盒筆記方法.md",
     "BOOK",
     "未命名"
   ]
