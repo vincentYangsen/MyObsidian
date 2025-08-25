@@ -11,14 +11,10 @@
             "id": "2379253e97acb0a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dairy/2025-08-26.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-08-26"
+              "title": "新分頁"
             }
           }
         ]
@@ -161,10 +157,11 @@
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
-      "bases:建立新的 base": false
+      "bases:建立新的 base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2379253e97acb0a2",
+  "active": "8cb55ab327a4c3fc",
   "lastOpenFiles": [
     "Dairy/2025-08-25.md",
     "Dairy/2025-08-26.md",
