@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BOOK/卡片盒筆記方法.md",
+                "file": "map/八字基礎.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "卡片盒筆記方法"
+              "title": "八字基礎"
             }
           },
           {
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BOOK/卡片盒筆記方法.md",
+                "file": "map/八字基礎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "卡片盒筆記方法 的反向連結"
+              "title": "八字基礎 的反向連結"
             }
           },
           {
@@ -191,6 +191,8 @@
   },
   "active": "6bc21f26df32a5fc",
   "lastOpenFiles": [
+    "Dairy/2025-08-25.md",
+    "BOOK/卡片盒筆記方法.md",
     "MyObsidian/README.md",
     "MyObsidian",
     "BOOK/原子習慣.md",
@@ -199,10 +201,8 @@
     "BOOK",
     "八字",
     "New/未命名.md",
-    "BOOK/卡片盒筆記方法.md",
     "map",
     "New/如何捕捉腦中的靈感.md",
-    "Dairy/2025-08-25.md",
     "八字/六合.md",
     "八字/三合.md",
     "八字/三會.md",
