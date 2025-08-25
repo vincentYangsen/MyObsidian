@@ -37,7 +37,7 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": true
           },
           "icon": "lucide-folder-closed",
           "title": "檔案瀏覽器"
@@ -165,7 +165,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2379253e97acb0a2",
+  "active": "8cb55ab327a4c3fc",
   "lastOpenFiles": [
     "Dairy/2025-08-26.md",
     "Static/螢幕擷取畫面 2025-08-11 181909.png",
