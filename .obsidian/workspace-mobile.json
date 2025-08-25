@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "今天待辦事項.md",
+                "file": "Dairy/2025-08-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "今天待辦事項"
+              "title": "2025-08-25"
             }
           }
         ]
@@ -98,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Dairy/2025-08-25.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -164,14 +165,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8cb55ab327a4c3fc",
+  "active": "2379253e97acb0a2",
   "lastOpenFiles": [
+    "八字/二十四山.md",
+    "Dairy/2025-08-25.md",
+    "BOOK/最小阻力之路.md",
     "New/未命名.md",
     "New/Meta human.md",
     "今天待辦事項.md",
-    "BOOK/最小阻力之路.md",
     "New/如何捕捉腦中的靈感.md",
-    "Dairy/2025-08-25.md",
     "obsidian 打造你的第二大腦 基礎篇.md",
     "map/八字基礎.md",
     "README.md",
@@ -179,7 +181,6 @@
     "八字/四馬地.md",
     "八字/四正地.md",
     "八字/六合.md",
-    "八字/二十四山.md",
     "八字/三會.md",
     "八字/三合.md",
     "八字",
