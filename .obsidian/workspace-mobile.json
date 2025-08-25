@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "d2059fe096a0cdfa",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf00887d05549e6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2379253e97acb0a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f44441210ccb1b1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8cb55ab327a4c3fc",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "檔案瀏覽器"
+        }
+      },
+      {
+        "id": "ca6d4018c01f147e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜尋"
+        }
+      },
+      {
+        "id": "ebe13dc398232f12",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "標籤"
+        }
+      },
+      {
+        "id": "de23639a619500b0",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "書籤"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4b79c2e8fc21573e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9de2e283cad39f02",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "README.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向連結"
+        }
+      },
+      {
+        "id": "43dfc28031d6dccd",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "README.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "對外連結"
+        }
+      },
+      {
+        "id": "620597282bdf99ee",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "README.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "大綱"
+        }
+      },
+      {
+        "id": "3cd080a036666401",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "bases:建立新的 base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8cb55ab327a4c3fc",
+  "lastOpenFiles": [
+    "未命名",
+    "未命名.md",
+    "README.md"
+  ]
+}
