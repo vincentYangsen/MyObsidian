@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "今天待辦事項"
             }
+          },
+          {
+            "id": "9d7e3710295a02e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairy/2025-08-26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-26"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,9 +180,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8cb55ab327a4c3fc",
+  "active": "9d7e3710295a02e5",
   "lastOpenFiles": [
+    "八字/十神.md",
     "Dairy/2025-08-26.md",
+    "n8n.md",
+    "八字/五行.md",
+    "今天待辦事項.md",
     "Static/螢幕擷取畫面 2025-08-11 181909.png",
     "Static/螢幕擷取畫面 2025-08-11 175916.png",
     "Static",
@@ -191,17 +210,13 @@
     "Dairy/2025-08-11.md",
     "Dairy",
     "README.md",
-    "今天待辦事項.md",
     "obsidian 打造你的第二大腦 基礎篇.md",
     "python 學習.md",
     "New/static/Pasted image 20250825102908.jpg",
     "New/static",
     "New/講話 流暢.md",
     "New/看鏡頭.md",
-    "New/未命名.md",
-    "New/如何捕捉腦中的靈感.md",
     "New",
-    "n8n.md",
     "map",
     "未命名"
   ]
