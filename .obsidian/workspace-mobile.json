@@ -27,16 +27,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairy/2025-08-26.md",
+                "file": "八字/十神.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-26"
+              "title": "十神"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "0c8847fa8da55704",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "689cea6d72093afd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "八字/十神.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大綱"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,13 +134,13 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dairy/2025-08-25.md",
+            "file": "八字/十神.md",
             "collapseAll": false,
-            "extraContext": false,
+            "extraContext": true,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
-            "backlinkCollapsed": false,
+            "backlinkCollapsed": true,
             "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
@@ -180,10 +201,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d7e3710295a02e5",
+  "active": "9de2e283cad39f02",
   "lastOpenFiles": [
-    "八字/十神.md",
     "Dairy/2025-08-26.md",
+    "八字/十神.md",
     "n8n.md",
     "八字/五行.md",
     "今天待辦事項.md",
