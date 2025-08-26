@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New/未命名.md",
+                "file": "Dairy/2025-08-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "2025-08-25"
             }
           },
           {
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New/未命名.md",
+                "file": "Dairy/2025-08-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名 的反向連結"
+              "title": "2025-08-25 的反向連結"
             }
           },
           {
@@ -222,6 +222,10 @@
   },
   "active": "5fa32736e1333f8f",
   "lastOpenFiles": [
+    "New/未命名.md",
+    "八字/十神.md",
+    "八字/五行.md",
+    "Dairy/2025-08-26.md",
     "Dairy/2025-08-25.md",
     "conflict-files-obsidian-git.md",
     "BOOK/卡片盒筆記方法.md",
@@ -232,7 +236,6 @@
     "map/八字基礎.md",
     "BOOK",
     "八字",
-    "New/未命名.md",
     "map",
     "New/如何捕捉腦中的靈感.md",
     "八字/六合.md",
@@ -253,9 +256,6 @@
     "New/屬性頁面.md",
     "New/圖片連結或路徑.md",
     "New/新頁面.md",
-    "obsidian 打造你的第二大腦 基礎篇.md",
-    "今天待辦事項.md",
-    "雙向連結.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "未命名 2.canvas",
