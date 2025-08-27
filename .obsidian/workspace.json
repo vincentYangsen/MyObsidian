@@ -148,10 +148,10 @@
               "type": "backlink",
               "state": {
                 "file": "Dairy/2025-08-25.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -166,11 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dairy/2025-08-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "對外連結"
+              "title": "2025-08-25 的對外連結"
             }
           },
           {
@@ -194,12 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Dairy/2025-08-25.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大綱"
+              "title": "2025-08-25 的大綱"
             }
           }
         ]
@@ -220,7 +222,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "5fa32736e1333f8f",
+  "active": "0dcf5fba1709849a",
   "lastOpenFiles": [
     "New/未命名.md",
     "八字/十神.md",
