@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "八字/十神.md",
+                "file": "Dairy/2025-08-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "十神"
+              "title": "2025-08-29"
             }
           }
         ],
@@ -48,8 +48,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "八字/十神.md",
+                "file": "八字/四馬地.md",
                 "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大綱"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b92a08ff4f394c7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b001ff6191e1754",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "八字/四馬地.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -134,10 +155,10 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "八字/十神.md",
+            "file": "八字/四馬地.md",
             "collapseAll": false,
             "extraContext": true,
-            "sortOrder": "alphabetical",
+            "sortOrder": "alphabeticalReverse",
             "showSearch": false,
             "searchQuery": "",
             "backlinkCollapsed": true,
@@ -201,10 +222,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9de2e283cad39f02",
+  "active": "9d7e3710295a02e5",
   "lastOpenFiles": [
-    "Dairy/2025-08-26.md",
+    "八字/四馬地.md",
+    "Dairy/2025-08-29.md",
     "八字/十神.md",
+    "Dairy/2025-08-26.md",
     "n8n.md",
     "八字/五行.md",
     "今天待辦事項.md",
@@ -218,7 +241,6 @@
     "BOOK/卡片盒筆記方法.md",
     "BOOK/動動眼肌.md",
     "BOOK",
-    "八字/四馬地.md",
     "八字/四正地.md",
     "八字/六合.md",
     "八字/二十四山.md",
@@ -236,7 +258,6 @@
     "New/static/Pasted image 20250825102908.jpg",
     "New/static",
     "New/講話 流暢.md",
-    "New/看鏡頭.md",
     "New",
     "map",
     "未命名"
