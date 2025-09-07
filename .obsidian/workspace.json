@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairy/2025-09-07.md",
+                "file": "New/看鏡頭.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-07"
+              "title": "看鏡頭"
             }
           },
           {
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dairy/2025-09-07.md",
+                "file": "New/看鏡頭.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-09-07 的反向連結"
+              "title": "看鏡頭 的反向連結"
             }
           },
           {
@@ -214,8 +214,10 @@
   },
   "active": "6ef7a9de1694ccf7",
   "lastOpenFiles": [
-    "Dairy/2025-09-04.md",
+    "New/static/Pasted image 20250825102908.jpg",
+    "map/八字基礎.md",
     "Dairy/2025-09-07.md",
+    "Dairy/2025-09-04.md",
     "Dairy/2025-08-25.md",
     "New/未命名.md",
     "永久筆記",
@@ -235,7 +237,6 @@
     "MyObsidian",
     "BOOK/原子習慣.md",
     "八字/四馬地.md",
-    "map/八字基礎.md",
     "BOOK",
     "八字",
     "map",
@@ -245,9 +246,7 @@
     "八字/二十四山.md",
     "BOOK/動動眼肌.md",
     "BOOK/能量練習.md",
-    "New/static/Pasted image 20250825102908.jpg",
     "New/static",
-    "八字/四正地.md",
     "Static/螢幕擷取畫面 2025-08-11 181909.png",
     "Static/螢幕擷取畫面 2025-08-11 175916.png",
     "未命名.canvas",
