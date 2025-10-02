@@ -25,17 +25,14 @@
             "id": "6ef7a9de1694ccf7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "blog.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Dairy/2025-10-02.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "blog"
+              "icon": "lucide-file",
+              "title": "2025-10-02"
             }
           },
           {
@@ -140,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog.canvas",
+                "file": "Dairy/2025-10-02.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "blog 的反向連結"
+              "title": "2025-10-02 的反向連結"
             }
           },
           {
@@ -217,8 +214,9 @@
   },
   "active": "6ef7a9de1694ccf7",
   "lastOpenFiles": [
-    "Dairy/2025-09-26.md",
     "blog.canvas",
+    "Dairy/2025-10-02.md",
+    "Dairy/2025-09-26.md",
     "Dairy/2025-09-24.md",
     "Dairy/2025-09-16.md",
     "Dairy/2025-09-12.md",
@@ -249,7 +247,6 @@
     "BOOK",
     "八字",
     "map",
-    "八字/六合.md",
     "New/static",
     "Static/螢幕擷取畫面 2025-08-11 181909.png",
     "Static/螢幕擷取畫面 2025-08-11 175916.png",
