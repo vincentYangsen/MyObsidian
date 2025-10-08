@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairy/2025-10-02.md",
+                "file": "map/八字基礎.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-02"
+              "title": "八字基礎"
             }
           },
           {
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dairy/2025-10-02.md",
+                "file": "map/八字基礎.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-10-02 的反向連結"
+              "title": "八字基礎 的反向連結"
             }
           },
           {
@@ -214,15 +214,17 @@
   },
   "active": "6ef7a9de1694ccf7",
   "lastOpenFiles": [
-    "blog.canvas",
-    "Dairy/2025-10-02.md",
+    "八字/二十四山.md",
+    "map/八字基礎.md",
+    "八字/六合.md",
     "Dairy/2025-09-26.md",
+    "Dairy/2025-10-02.md",
     "Dairy/2025-09-24.md",
+    "blog.canvas",
     "Dairy/2025-09-16.md",
     "Dairy/2025-09-12.md",
     "New/看鏡頭.md",
     "New/static/Pasted image 20250825102908.jpg",
-    "map/八字基礎.md",
     "Dairy/2025-09-07.md",
     "Dairy/2025-09-04.md",
     "Dairy/2025-08-25.md",
@@ -243,7 +245,6 @@
     "MyObsidian/README.md",
     "MyObsidian",
     "BOOK/原子習慣.md",
-    "八字/四馬地.md",
     "BOOK",
     "八字",
     "map",
