@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"cdec9f6456fa2f1c","x":-125,"y":-30,"width":245,"height":150,"type":"text","text":"沒登入\n\n顯示 登入畫面\n\n沒帳號註冊"},
+		{"id":"c76d7f6b0e03bfb1","x":-125,"y":180,"width":250,"height":100,"type":"text","text":"登入\n顯示文章"},
+		{"id":"27d8ef0cf636e3b3","x":-440,"y":15,"width":250,"height":60,"type":"text","text":"註冊\n頁面"}
+	],
+	"edges":[
+		{"id":"77333a9e066ee57a","fromNode":"c76d7f6b0e03bfb1","fromSide":"top","toNode":"cdec9f6456fa2f1c","toSide":"top"},
+		{"id":"0413e7239e79806d","fromNode":"cdec9f6456fa2f1c","fromSide":"left","toNode":"27d8ef0cf636e3b3","toSide":"right"}
+	]
+}
