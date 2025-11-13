@@ -27,26 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "map/八字基礎.md",
+                "file": "Dairy/2025-11-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "八字基礎"
-            }
-          },
-          {
-            "id": "5fa32736e1333f8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dairy/2025-08-26.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-26"
+              "title": "2025-11-13"
             }
           },
           {
@@ -137,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "map/八字基礎.md",
+                "file": "Dairy/2025-11-13.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "八字基礎 的反向連結"
+              "title": "2025-11-13 的反向連結"
             }
           },
           {
@@ -214,9 +200,11 @@
   },
   "active": "6ef7a9de1694ccf7",
   "lastOpenFiles": [
+    "map/八字基礎.md",
+    "Dairy/2025-11-13.md",
+    "Dairy/2025-08-26.md",
     "Dairy/2025-10-23.md",
     "八字/二十四山.md",
-    "map/八字基礎.md",
     "八字/六合.md",
     "Dairy/2025-09-26.md",
     "Dairy/2025-10-02.md",
@@ -232,7 +220,6 @@
     "New/未命名.md",
     "永久筆記",
     "文獻筆記",
-    "Dairy/2025-08-26.md",
     "Dairy/2025-08-14.md",
     "Dairy/2025-08-12.md",
     "Dairy/2025-08-11.md",
@@ -243,7 +230,6 @@
     "八字/五行.md",
     "conflict-files-obsidian-git.md",
     "BOOK/卡片盒筆記方法.md",
-    "MyObsidian/README.md",
     "MyObsidian",
     "BOOK",
     "八字",
