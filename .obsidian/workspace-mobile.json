@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairy/2025-10-23.md",
+                "file": "Dairy/2025-11-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-23"
+              "title": "2025-11-15"
             }
           }
         ],
@@ -206,9 +206,19 @@
           "icon": "lucide-ghost",
           "title": "calendar"
         }
+      },
+      {
+        "id": "d93475f49cf207b4",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,8 +234,19 @@
   },
   "active": "9d7e3710295a02e5",
   "lastOpenFiles": [
-    "Dairy/2025-09-12.md",
     "Dairy/2025-10-23.md",
+    "Dairy/2025-11-15.md",
+    "blog.canvas",
+    "/blog.canvas",
+    "/Dairy/2025-09-16.md",
+    "Dairy/2025-10-02.md",
+    "Dairy/2025-09-26.md",
+    "/Dairy/2025-10-02.md",
+    "/Dairy/2025-09-26.md",
+    "/Dairy/2025-09-24.md",
+    "Dairy/2025-09-24.md",
+    "/Dairy",
+    "Dairy/2025-09-12.md",
     "Dairy/2025-09-16.md",
     "Dairy/2025-09-04.md",
     "Dairy/2025-09-07.md",
@@ -233,7 +254,6 @@
     "/Dairy/2025-09-12.md",
     "/Dairy/2025-09-07.md",
     "/Dairy/2025-08-25.md",
-    "/Dairy",
     "八字/四馬地.md",
     "Dairy/2025-08-29.md",
     "/Dairy/2025-08-28.md",
@@ -246,15 +266,7 @@
     "Static/螢幕擷取畫面 2025-08-11 181909.png",
     "Static/螢幕擷取畫面 2025-08-11 175916.png",
     "Static",
-    "BOOK/能量練習.md",
-    "BOOK/習慣綑綁.md",
-    "BOOK/生命有光.md",
-    "BOOK/原子習慣.md",
-    "BOOK/卡片盒筆記方法.md",
-    "BOOK/動動眼肌.md",
     "BOOK",
-    "八字/四正地.md",
-    "八字/六合.md",
     "八字",
     "Dairy",
     "New/static/Pasted image 20250825102908.jpg",
