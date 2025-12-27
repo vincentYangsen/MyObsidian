@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairy/2025-12-05.md",
+                "file": "Dairy/2025-12-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-05"
+              "title": "2025-12-27"
             }
           },
           {
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dairy/2025-12-05.md",
+                "file": "Dairy/2025-12-27.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-12-05 的反向連結"
+              "title": "2025-12-27 的反向連結"
             }
           },
           {
@@ -214,12 +214,13 @@
   },
   "active": "d0cf29b44dff5634",
   "lastOpenFiles": [
-    "Dairy/2025-12-25.md",
     "Dairy/2025-12-05.md",
+    "Dairy/2025-12-27.md",
     "Dairy/2025-11-21.md",
-    "Dairy/2025-11-18.md",
     "Dairy/2025-11-19.md",
     "Dairy/2025-11-15.md",
+    "Dairy/2025-11-18.md",
+    "Dairy/2025-12-25.md",
     "Dairy/2025-11-13.md",
     "map/八字基礎.md",
     "Dairy/2025-08-26.md",
@@ -243,7 +244,6 @@
     "Dairy/2025-08-14.md",
     "Dairy/2025-08-12.md",
     "Dairy/2025-08-11.md",
-    "Dairy/2025-08-28.md",
     "MyObsidian",
     "BOOK",
     "八字",
