@@ -41,16 +41,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairy/2026-02-07.md",
+                "file": "Dairy/2026-02-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-07"
+              "title": "2026-02-14"
+            }
+          },
+          {
+            "id": "462f0f6b2ebe7035",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "發行記錄 1.11.7"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dairy/2026-02-07.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-02-07 的反向連結"
+              "title": "反向連結"
             }
           },
           {
@@ -198,10 +209,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "d0cf29b44dff5634",
+  "active": "462f0f6b2ebe7035",
   "lastOpenFiles": [
-    "Dairy/2026-01-31.md",
     "Dairy/2026-02-07.md",
+    "Dairy/2026-02-14.md",
+    "Dairy/2026-01-31.md",
     "Dairy/2025-12-05.md",
     "Dairy/2025-12-27.md",
     "Dairy/2026-01-13.md",
@@ -228,7 +240,6 @@
     "八字/六合.md",
     "Dairy/2025-09-26.md",
     "blog.canvas",
-    "Dairy/2025-09-12.md",
     "New/static/Pasted image 20250825102908.jpg",
     "永久筆記",
     "文獻筆記",
