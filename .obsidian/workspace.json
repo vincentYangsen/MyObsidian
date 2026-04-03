@@ -22,63 +22,77 @@
             }
           },
           {
-            "id": "6ef7a9de1694ccf7",
+            "id": "1e4ca154cb4825b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairy/2025-11-19.md",
+                "file": "New/靈感.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-19"
+              "title": "靈感"
             }
           },
           {
-            "id": "d0cf29b44dff5634",
+            "id": "7b345602e917f6b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairy/2026-02-14.md",
+                "file": "Dairy/2026-03-18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-14"
+              "title": "2026-03-18"
             }
           },
           {
-            "id": "462f0f6b2ebe7035",
+            "id": "2aa1623c9df9ecf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairy/2026-02-19.md",
+                "file": "New/三個重點.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-19"
+              "title": "三個重點"
             }
           },
           {
-            "id": "5f1efe0adf0b0438",
+            "id": "73e23cb7bb4e35ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairy/2026-02-19.md",
+                "file": "Dairy/2026-04-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-19"
+              "title": "2026-04-01"
+            }
+          },
+          {
+            "id": "114c5022078c4cea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New/三個重點.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "三個重點"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -151,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dairy/2026-02-19.md",
+                "file": "New/新手必讀！5 本改變我財富觀與心靈的書.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-02-19 的反向連結"
+              "title": "新手必讀！5 本改變我財富觀與心靈的書 的反向連結"
             }
           },
           {
@@ -170,12 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dairy/2025-08-12.md",
+                "file": "New/三個重點.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-08-12 的對外連結"
+              "title": "三個重點 的對外連結"
             }
           },
           {
@@ -208,11 +222,12 @@
               "title": "2025-08-12 的大綱"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,36 +241,35 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "5f1efe0adf0b0438",
+  "active": "114c5022078c4cea",
   "lastOpenFiles": [
-    "Dairy/2026-02-20.md",
-    "Dairy/2026-02-21.md",
-    "conflict-files-obsidian-git.md",
-    "Dairy/2026-02-19.md",
+    "Dairy/2026-03-11.md",
+    "Dairy/2026-03-18.md",
+    "Dairy/2026-04-01.md",
+    "New/未命名.base",
+    "New/未命名 1.base",
     "New/三個重點.md",
+    "New/新手必讀！5 本改變我財富觀與心靈的書.md",
+    "New/講話 流暢.md",
+    "New/為什麼你努力存錢卻依然焦慮？一個深刻的洞察，比存到一百萬還重要.md",
+    "Dairy/2026-03-07.md",
+    "New/靈感.md",
+    "map/八字基礎.md",
+    "Dairy/2025-11-19.md",
+    "Dairy/2026-02-14.md",
+    "Dairy/2026-02-19.md",
+    "八字/二十四山.md",
+    "八字/三會.md",
+    "Dairy/2026-02-21.md",
     "Dairy/2026-02-03.md",
     "Dairy/2026-02-01.md",
+    "Dairy/2026-02-07.md",
+    "Dairy/2026-02-16.md",
+    "Dairy/2026-02-20.md",
+    "conflict-files-obsidian-git.md",
     "Dairy/2026-01-08.md",
     "Dairy/2026-01-04.md",
     "Dairy/2025-12-25.md",
-    "Dairy/2026-02-16.md",
-    "Dairy/2026-02-07.md",
-    "Dairy/2026-02-14.md",
-    "Dairy/2026-01-31.md",
-    "Dairy/2025-12-05.md",
-    "Dairy/2025-12-27.md",
-    "Dairy/2026-01-13.md",
-    "New/未命名 1.base",
-    "New/未命名.base",
-    "BOOK/原子習慣.md",
-    "Dairy/2025-08-26.md",
-    "Dairy/2025-08-25.md",
-    "Dairy/2025-09-04.md",
-    "Dairy/2025-09-07.md",
-    "Dairy/2025-09-16.md",
-    "Dairy/2025-09-24.md",
-    "Dairy/2025-10-02.md",
-    "Dairy/2025-10-23.md",
     "blog.canvas",
     "New/static/Pasted image 20250825102908.jpg",
     "永久筆記",
