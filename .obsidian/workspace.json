@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New/新手必讀！5 本改變我財富觀與心靈的書.md",
+                "file": "Dairy/2026-04-23.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "新手必讀！5 本改變我財富觀與心靈的書 的反向連結"
+              "title": "2026-04-23 的反向連結"
             }
           },
           {
@@ -184,12 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New/三個重點.md",
+                "file": "Dairy/2026-04-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "三個重點 的對外連結"
+              "title": "2026-04-23 的對外連結"
             }
           },
           {
@@ -223,7 +223,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -243,33 +243,35 @@
   },
   "active": "114c5022078c4cea",
   "lastOpenFiles": [
+    "New/未命名 1.base",
+    "Dairy/2026-07-07.md",
+    "Dairy/2026-05-23.md",
+    "Dairy/2026-04-23.md",
+    "Dairy/2026-05-20.md",
+    "map/八字基礎.md",
+    "New/三個重點.md",
+    "New/如何捕捉腦中的靈感.md",
+    "New/為什麼你努力存錢卻依然焦慮？一個深刻的洞察，比存到一百萬還重要.md",
+    "New/看鏡頭.md",
+    "New/新手必讀！5 本改變我財富觀與心靈的書.md",
+    "Static/螢幕擷取畫面 2025-08-11 175916.png",
+    "Static/螢幕擷取畫面 2025-08-11 181909.png",
+    "今天待辦事項.md",
+    "python 學習.md",
+    "obsidian 打造你的第二大腦 基礎篇.md",
+    "雙向連結.md",
+    "New/static/未命名.base",
+    "New/講話 流暢.md",
+    "New/靈感.md",
+    "Dairy/2026-04-11.md",
+    "Dairy/2026-04-01.md",
     "Dairy/2026-03-11.md",
     "Dairy/2026-03-18.md",
-    "Dairy/2026-04-01.md",
-    "New/未命名.base",
-    "New/未命名 1.base",
-    "New/三個重點.md",
-    "New/新手必讀！5 本改變我財富觀與心靈的書.md",
-    "New/講話 流暢.md",
-    "New/為什麼你努力存錢卻依然焦慮？一個深刻的洞察，比存到一百萬還重要.md",
     "Dairy/2026-03-07.md",
-    "New/靈感.md",
-    "map/八字基礎.md",
     "Dairy/2025-11-19.md",
     "Dairy/2026-02-14.md",
     "Dairy/2026-02-19.md",
     "八字/二十四山.md",
-    "八字/三會.md",
-    "Dairy/2026-02-21.md",
-    "Dairy/2026-02-03.md",
-    "Dairy/2026-02-01.md",
-    "Dairy/2026-02-07.md",
-    "Dairy/2026-02-16.md",
-    "Dairy/2026-02-20.md",
-    "conflict-files-obsidian-git.md",
-    "Dairy/2026-01-08.md",
-    "Dairy/2026-01-04.md",
-    "Dairy/2025-12-25.md",
     "blog.canvas",
     "New/static/Pasted image 20250825102908.jpg",
     "永久筆記",
@@ -279,8 +281,6 @@
     "八字",
     "map",
     "New/static",
-    "Static/螢幕擷取畫面 2025-08-11 181909.png",
-    "Static/螢幕擷取畫面 2025-08-11 175916.png",
     "未命名 1.canvas",
     "未命名 2.canvas",
     "Templates"
